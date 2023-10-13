@@ -50,5 +50,5 @@ In addition create a .env file in the project root and set these variables:
 
 I used azure app services to delpoy this app:
 
-- https://course-plan.azurewebsites.net/
+- https://artist-search.azurewebsites.net/
 
